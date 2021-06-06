@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRealHoko
-- 👀 I’m interested in programming, games and other boring stuff
+- 👀 I’m interested in programming, games and other stuff
 - 🌱 I’m currently learning C
 <!---
 - 💞️ I’m looking to collaborate on ...
