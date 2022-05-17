@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheRealHoko
+- 👋 Hi, I’m TheRealHoko
 - 👀 I’m interested in programming, games and other stuff
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, JavaScript and C#
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
